@@ -1,5 +1,5 @@
-### Salut, Je m'appelle minemobs 👋
-J'apprends le java et le c# .
+### Hey, je m'appelle NoaLeGeek68 !
+J'apprends le Java.
 Je travaille sur le bot [Pepite D'or][pepitedor]
 
 <br />
