@@ -1,16 +1,21 @@
-### Hi there 👋
+Salut, Je m'appelle minemobs 👋
+J'apprends le java et le c# . Je travaille sur le mod PufferTweaks et le Puffermod2
 
-<!--
-**NoaLeGeek68/NoaLeGeek68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+minemobs | Discordminemobs | Twitterminemobs | YoutubeContact mail
 
-Here are some ideas to get you started:
+Mes outils :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHubIntellijVs CodeRider
+
+
+
+
+Les langages que je connais :
+
+JavaCSharpScalaMySql
+
+
+
+Mes stats
+
+Mes stats
