@@ -1,6 +1,6 @@
 ### Hey, je m'appelle NoaLeGeek68 !
 J'apprends le Java.
-Je travaille sur le bot [Pepite D'or][pepitedor]
+Je travaille sur le bot [Simplebot][simplebot]
 
 <br />
 <br />
