@@ -26,10 +26,10 @@ Les langages que je connais :
 ---
 
 
-<img align="left" alt="Mes stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoaLeGeek68&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt="Mes stats" src="https://github-readme-stats.vercel.app/api?username=NoaLeGeek68&show_icons=true&hide_border=true&theme=radical"/>
+<img align="left" alt="Mes stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Computerslave&show_icons=true&hide_border=true&theme=radical" />
+<img align="right" alt="Mes stats" src="https://github-readme-stats.vercel.app/api?username=Computerslave&show_icons=true&hide_border=true&theme=radical"/>
 
 [intellij]: https://www.jetbrains.com/idea/
 [java]: https://www.oracle.com/java/technologies/javase-downloads.html
-[github]: https://www.github.com/NoaLeGeek68
-[pepitedor]: https://github.com/NoaLeGeek68/pepite_dor_bot
+[github]: https://www.github.com/Computerslave
+[pepitedor]: https://github.com/Computerslave/pepite_dor_bot
