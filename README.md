@@ -1,4 +1,4 @@
-### Hey, je m'appelle NoaLeGeek68 !
+### Hey, je m'appelle Computerslave !
 J'apprends le Java.
 Je travaille sur le bot SimpleBot.
 
