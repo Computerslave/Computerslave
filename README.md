@@ -27,7 +27,7 @@ Les langages que je connais :
 
 
 <img align="left" alt="Mes stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoaLeGeek&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt="Mes stats" src="https://github-readme-stats.vercel.app/api?username=Computerslave&show_icons=true&hide_border=true&theme=radical"/>
+<img align="right" alt="Mes stats" src="https://github-readme-stats.vercel.app/api?username=NoaLeGeek&show_icons=true&hide_border=true&theme=radical"/>
 
 [intellij]: https://www.jetbrains.com/idea/
 [java]: https://www.oracle.com/java/technologies/javase-downloads.html
