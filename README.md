@@ -1,35 +1,21 @@
-### Hey, je m'appelle NoaLeGeek !
-J'apprends le Java.
-Je travaille sur le bot SimpleBot.
+<h1 align="center">Hi 👋, I'm Noa OTTERMANN</h1>
+<h3 align="center">An inspiring software developer from France</h3>
 
-<br />
-<br />
----
-Mes outils :
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noalegeek&label=Profile%20views&color=0e75b6&style=flat" alt="noalegeek" /> </p>
 
-[<img align="left" alt="GitHub" width="75px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Intellij" width="75px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />][intellij]
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noalegeek" alt="noalegeek" /></a> </p>
 
-<br />
-<br />
-<br />
+- 🔭 I’m currently working on **chessgame**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Les langages que je connais :
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-[<img align="left" alt="Java" width="100px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />][java]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noalegeek&show_icons=true&locale=en&layout=compact" alt="noalegeek" /></p>
 
-<br />
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noalegeek&show_icons=true&locale=en" alt="noalegeek" /></p>
 
----
-
-
-<img align="left" alt="Mes stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoaLeGeek&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt="Mes stats" src="https://github-readme-stats.vercel.app/api?username=NoaLeGeek&show_icons=true&hide_border=true&theme=radical"/>
-
-[intellij]: https://www.jetbrains.com/idea/
-[java]: https://www.oracle.com/java/technologies/javase-downloads.html
-[github]: https://www.github.com/NoaLeGeek
-[pepitedor]: https://github.com/NoaLeGeek/pepite_dor_bot
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noalegeek&" alt="noalegeek" /></p>
